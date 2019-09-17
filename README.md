@@ -12,4 +12,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+I don't care. I'm the only user anyway.
+
 ## How to contribute
+
+Just don't!
