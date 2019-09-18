@@ -18,3 +18,7 @@ I don't care. I'm the only user anyway.
 
 Just don't!
 Or if you really need to, create a pull request.
+
+## Copyright
+
+Copyright 2019 for a GIT course
