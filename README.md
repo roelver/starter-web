@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-This is just a dummy project to work with GIT
+This is just a dummy project to work with GIT.
 
 ## Purpose
 
@@ -17,7 +17,7 @@ I don't care. I'm the only user anyway.
 ## How to contribute
 
 Just don't!
-Or if you really need to, create a pull request.
+Or if you really need to, fork it, change it and create a pull request.
 
 ## Copyright
 
