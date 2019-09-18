@@ -3,13 +3,14 @@
 
 # TEAM
 
-    Our wonderful team - @nottwitter
+    Our wonderful team - @notwitter
 
 # THANKS
 
-    Everyone
+    Everyone, including my mom
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    GIT
