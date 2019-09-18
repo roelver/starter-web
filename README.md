@@ -1,10 +1,10 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. Adding text for rebasing example.
 
 ## Introduction
 
-This is just a dummy project to work with GIT.
+This is just a dummy project to work with GIT. What a funny course this is.
 
 ## Purpose
 
@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-I don't care. I'm the only user anyway.
+I don't care. I'm the only user anyway. Help yourself.
 
 ## How to contribute
 
